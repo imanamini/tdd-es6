@@ -1,4 +1,5 @@
+# install dependencies
+$ npm install
 
-// for run test just enter:
-
-npm run test
+# run test
+$ npm run test
