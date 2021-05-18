@@ -1,5 +1,5 @@
 import {expect} from "chai";
-import {isAnagram} from "./anagrams";
+import {isAnagram} from "../../src/anagrams";
 
 describe('isAnagram - basic functionality', ()=>{
     it('return true when two known anagram', ()=> {

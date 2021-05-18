@@ -1,5 +1,5 @@
 import {expect} from "chai";
-import {getLetterCount} from './letter-count';
+import {getLetterCount} from '../../src/letter-count';
 
 describe('getLetterCount - basic functionality',()=>{
     it('returns an empty object when passed an empty string ', ()=> {
